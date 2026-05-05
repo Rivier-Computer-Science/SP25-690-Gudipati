@@ -16,7 +16,7 @@ We use the ISOT Fake News Dataset containing 44,898 articles.
 
 ## 3. Implementation
 [cite_start]The pipeline follows these stages[cite: 3]:
-1. Data Ingestion
+1. Data Ingestion    
 2. [cite_start]Preprocessing (TF-IDF) [cite: 29]
 3. [cite_start]Training (LR, MLP, BERT) [cite: 27, 35]
 4. [cite_start]Evaluation [cite: 40]
