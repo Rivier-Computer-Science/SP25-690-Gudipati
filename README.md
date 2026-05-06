@@ -107,5 +107,5 @@ python main.py
 **Author:** Vishnu Teja Gudipati  
 **Riv ID:** A0000072432  
 **Course:** COMP-690-AH2 - Topics in Computer Science  
-**Date:** May 2026 improved performance over baseline models[cite: 14].
+**Date:** May 2026 
 
